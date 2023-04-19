@@ -1451,7 +1451,7 @@ SSplotComps <-
                     ParmSelect <- data_info[sub, "ParmSelect"]
                     CompError <- data_info[sub, "CompError"]
 
-                    if(length(CompError)!=0){
+                    if (length(CompError) != 0) {
                       # D-M option 1 (linear)
                       if (CompError == 1) {
                         Theta <- as.numeric(replist[["Dirichlet_Multinomial_pars"]][["Theta"]][ParmSelect])
@@ -1483,7 +1483,7 @@ SSplotComps <-
                             "approximate sample size multiplier."
                           )
                       }
-                    }else{
+                    } else {
                       caption_extra <-
                         paste0(
                           ".<br>'N input' is the input sample size. ",
