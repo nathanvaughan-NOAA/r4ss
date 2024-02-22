@@ -364,6 +364,9 @@
     <loc>https://r4ss.github.io/r4ss/reference/bubble3.html</loc>
   </url>
   <url>
+    <loc>https://r4ss.github.io/r4ss/reference/calc_var_adjust.html</loc>
+  </url>
+  <url>
     <loc>https://r4ss.github.io/r4ss/reference/check_exe.html</loc>
   </url>
   <url>
@@ -397,6 +400,12 @@
     <loc>https://r4ss.github.io/r4ss/reference/get_last_phase.html</loc>
   </url>
   <url>
+    <loc>https://r4ss.github.io/r4ss/reference/get_par_name.html</loc>
+  </url>
+  <url>
+    <loc>https://r4ss.github.io/r4ss/reference/get_ss3_exe.html</loc>
+  </url>
+  <url>
     <loc>https://r4ss.github.io/r4ss/reference/get_tuning_table.html</loc>
   </url>
   <url>
@@ -407,6 +416,9 @@
   </url>
   <url>
     <loc>https://r4ss.github.io/r4ss/reference/is.wholenumber.html</loc>
+  </url>
+  <url>
+    <loc>https://r4ss.github.io/r4ss/reference/iterate_jitter.html</loc>
   </url>
   <url>
     <loc>https://r4ss.github.io/r4ss/reference/jitter.html</loc>
